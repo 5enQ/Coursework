@@ -142,6 +142,8 @@ C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\G
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\roslyn\vbc.rsp
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\EntityFramework.dll
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
@@ -157,6 +159,9 @@ C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\G
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\System.Web.Webpages.Razor.dll
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\WebActivator.dll
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\GameStore.Domain.pdb
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll.config
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\EntityFramework.xml
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.xml
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\Moq.xml
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\Ninject.pdb
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Kursovaya\GameStore\GameStore.WebUI\bin\Ninject.xml
