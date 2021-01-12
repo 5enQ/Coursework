@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GameStore",
+    "\\GameStore\\GameStore.Domain",
+    "\\GameStore\\GameStore.UnitTests",
+    "\\GameStore\\GameStore.WebUI",
+    "\\GameStore\\packages"
+  ],
+  "SelectedNode": "\\GameStore\\GameStore.sln",
+  "PreviewInSolutionExplorer": false
+}
