@@ -36,9 +36,7 @@ C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
-C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderParial.cshtml.g.cs
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
-C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartials.cshtml.g.cs
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
@@ -163,5 +161,6 @@ C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Css2Partial.cshtml.g.cs
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
