@@ -9,20 +9,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+using WebApplication1.Service;
+
 namespace WebApplication1
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
-        {
-            Configuration = configuration;
-        }
-
         public IConfiguration Configuration { get; }
+        public Startup(IConfiguration configuration) => Configuration = configuration;
+
+        //public Startup(IConfiguration configuration)
+        // {
+        //    Configuration = configuration;
+        //}
+
+        //public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //подключаем конфиг из appsettings.json
+            Configuration.Bind("Project", new Config());
+
             //services.AddRazorPages();
             services.AddControllersWithViews()
                 .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0).AddSessionStateTempDataProvider();
