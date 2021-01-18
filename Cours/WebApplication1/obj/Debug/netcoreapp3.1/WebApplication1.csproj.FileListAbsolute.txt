@@ -7,7 +7,6 @@ C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
-C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
@@ -165,3 +164,8 @@ C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.production.json
 C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.starting.json
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\_ViewImports.cshtml.g.cs
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\kulae\OneDrive\Рабочий стол\Coursework\Cours\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs

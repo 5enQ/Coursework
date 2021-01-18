@@ -1,6 +1,6 @@
 ﻿using WebApplication1.Domain.Repositories.Abstract;
 
-namespace MyCompany.Domain
+namespace WebApplication1.Domain
 {
     public class DataManager
     {

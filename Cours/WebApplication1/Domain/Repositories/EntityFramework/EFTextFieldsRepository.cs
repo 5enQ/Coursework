@@ -5,7 +5,7 @@ using WebApplication1.Domain;
 using WebApplication1.Domain.Entities;
 using WebApplication1.Domain.Repositories.Abstract;
 
-namespace MyCompany.Domain.Repositories.EntityFramework
+namespace WebApplication1.Domain.Repositories.EntityFramework
 {
     public class EFTextFieldsRepository : ITextFieldsRepository
     {
